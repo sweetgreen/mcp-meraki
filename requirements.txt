@@ -20,7 +20,7 @@ iniconfig==2.1.0
 Jinja2==3.1.6
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
-mcp==1.7.1
+mcp==1.23.0
 mdurl==0.1.2
 meraki==2.0.2
 multidict==6.4.3
